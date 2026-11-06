@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@astrojs/compiler-rs": "^0.5.2",
+    "@astrojs/netlify": "^8.2.12",
     "@astrojs/node": "^11.1.11",
     "@tailwindcss/vite": "^4.3.4",
     "astro": "^7.4.7",
